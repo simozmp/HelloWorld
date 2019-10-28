@@ -8,7 +8,7 @@ jdk:
 - openjdk8
 addons:
   sonarcloud:
-    organization: simozmp
+    organization: "simozmp"
     token:
       secure: 9973a5ade8af70b5697cd1a4aa1bc4c0c1b8914a
 script:
