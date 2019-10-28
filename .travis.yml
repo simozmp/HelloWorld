@@ -10,7 +10,7 @@ addons:
   sonarcloud:
     organization: "simozmp"
     token:
-      secure: 9973a5ade8af70b5697cd1a4aa1bc4c0c1b8914a
+      secure: bcafaeb9cd56cac4e2c5cb4b7abfa0b1c616101a
 script:
 - ant build
 - sonar-scanner
